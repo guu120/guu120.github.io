@@ -3,7 +3,7 @@
 
 
 ```markdown
-sudo apt-get update
+Syntax highlighted code block
 
 # Header 1
 ## Header 2
@@ -20,12 +20,8 @@ sudo apt-get update
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F202006%2F15%2F20200615150921_igexs.gif&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1622947322&t=65b82ba63dfd23acf078e100d0873d93)
 
-### Jekyll Themes
+For more details see [touch fish](http://b388079t42.zicp.vip/home).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/guu120/guu120.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
