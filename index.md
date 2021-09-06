@@ -8,5 +8,5 @@
 
 
 
-## For more details see [TOUCH FISH](http://b388079t42.zicp.vip/home).
+## For more details see [TOUCH FISH](http://b388079t42.zicp.vip/tools).
 
