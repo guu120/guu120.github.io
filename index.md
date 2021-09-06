@@ -1,6 +1,6 @@
 ## AIR CONDITION Today
 <script>
-  window.location.href="http://b388079t42.zicp.vip/msgboard"
+  window.location.href="http://b388079t42.zicp.vip/tools"
 </script>
 ##![airdraw](http://b388079t42.zicp.vip/static/images/plot.jpg)
 
@@ -8,5 +8,5 @@
 
 
 
-## For more details see [TOUCH FISH](http://b388079t42.zicp.vip/tools).
+## For more details see [TOUCH FISH](http://b388079t42.zicp.vip/home).
 
